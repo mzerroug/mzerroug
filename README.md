@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zerroug Maha</h1>
-<h3 align="center">A passionate backEnd developer with JAVA From Morocco</h3>
+<h3 align="center">A passionate JAVA backEnd developer From Morocco</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mzerroug&label=Profile%20views&color=0e75b6&style=flat" alt="mzerroug" /> </p>
 
